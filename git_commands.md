@@ -17,7 +17,8 @@ git add <file> или git add или git add --all
 git commit -m "commit message"
 ```
 
-что-то еще
+добавим следующую команду для просмотра истории коммитов
+
 
 
 
